@@ -59,7 +59,7 @@ TextLabel_2.Position = UDim2.new(0.0980392173, 0, 0.0232558139, 0)
 TextLabel_2.Size = UDim2.new(0, 102, 0, 24)
 TextLabel_2.ZIndex = 3
 TextLabel_2.Font = Enum.Font.SourceSansBold
-TextLabel_2.Text = "LOGGER"
+TextLabel_2.Text = "LOGGER REMAKE L0L0LL"
 TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.TextSize = 25.000
  
