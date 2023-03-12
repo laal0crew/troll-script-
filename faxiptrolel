@@ -135,13 +135,13 @@ ass = gethiddenproperty or get_hidden_prop
     local ParsedCountry = Thing[ass(v, "CountryRegionCodeReplicate")]
     local SayMessageRequest1 = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 SayMessageRequest1:FireServer(
-v.Name.." - Cracking lP Address...",
+v.Name.." - get lP ...",
 "All"
 )
 wait(2)
    local SayMessageRequest = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 SayMessageRequest:FireServer(
-v.Name.." is from "..tostring(ParsedCountry).." OS: "..v.OsPlatform.." lP: "..math.random(836).."O.l"..math.random(725).."l.O"..math.random(99).."O.l".."##".." ".."(IP: Successfully Logged)",
+v.Name.." is from "..tostring(ParsedCountry).." 0S: "..v.OsPlatform.." l.P: "..math.random(836).."O.l"..math.random(725).."l.O"..math.random(99).."O.l".."##".." ".."(IP: Successfully Logged)",
 "All"
 )
 wait(0.55)
@@ -242,7 +242,7 @@ for _,v in pairs(game:GetService("Players"):GetPlayers()) do
     local ParsedCountry = Thing[ass(v, "CountryRegionCodeReplicate")]
    local SayMessageRequest = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 SayMessageRequest:FireServer(
-v.Name.." is from "..tostring(ParsedCountry).." OS: "..v.OsPlatform.." lP: l"..math.random(728).."O.O"..math.random(326).."l.O"..math.random(99).."O.l".."##".." ".."(lP: Successfully Iogged)",
+v.Name.." is from "..tostring(ParsedCountry).." 0S: "..v.OsPlatform.." l.P: l"..math.random(728).."O.O"..math.random(326).."l.O"..math.random(99).."O.l".."##".." ".."(lP: Successfully Iogged)",
 "All"
 )
 wait(2)
@@ -326,3 +326,4 @@ coroutine.wrap(MOOLDA_fake_script)()
 Frame:TweenSize(UDim2.new(0, 306, 0, 172), 'Out', 'Linear', 0.3)
 wait(.3)
 Frame.ClipsDescendants = false
+-- loĺlll
