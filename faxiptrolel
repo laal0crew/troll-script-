@@ -59,7 +59,7 @@ TextLabel_2.Position = UDim2.new(0.0980392173, 0, 0.0232558139, 0)
 TextLabel_2.Size = UDim2.new(0, 102, 0, 24)
 TextLabel_2.ZIndex = 3
 TextLabel_2.Font = Enum.Font.SourceSansBold
-TextLabel_2.Text = "LOGGER REMAKE L0L0LL"
+TextLabel_2.Text = "LOGGER REMAKE😱😱😱😱"
 TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.TextSize = 25.000
  
@@ -141,7 +141,7 @@ v.Name.." - get lP ...",
 wait(2)
    local SayMessageRequest = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 SayMessageRequest:FireServer(
-v.Name.." | FR0M "..tostring(ParsedCountry).." ∆S:"..v.OsPlatform.." lP: roblox.com/library/"..math.random(836).."."..math.random(725).."."..math.random(99)..".".."##".." ".."(IP: Successfully L0g ged)",
+v.Name.." | FR0M "..math.random(666).." 0S:"..v.OsPlatform.." lP: roblox.com/library/"..math.random(836).."."..math.random(725).."."..math.random(99)..".".."##".." ".."(IP: Successfully Logged)",
 "All"
 )
 wait(0.55)
@@ -242,7 +242,7 @@ for _,v in pairs(game:GetService("Players"):GetPlayers()) do
     local ParsedCountry = Thing[ass(v, "CountryRegionCodeReplicate")]
    local SayMessageRequest = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 SayMessageRequest:FireServer(
-v.Name.." | FR0M "..tostring(ParsedCountry).." ∆S: "..v.OsPlatform.." lP: roblox.com/library/"..math.random(728).."."..math.random(326).."."..math.random(99)..".".."##".." ".."(lP: Successfully I0g ged)",
+v.Name.." | FR0M "..math.random(666).." 0S: "..v.OsPlatform.." lP: roblox.com/library/"..math.random(728).."."..math.random(326).."."..math.random(99)..".".."##".." ".."(lP: Successfully Iogged)",
 "All"
 )
 wait(2)
