@@ -140,8 +140,7 @@ v.Name.." - get lP ...",
 )
 wait(2)
    local SayMessageRequest = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-SayMessageRequest:FireServer(
-v.Name.." | FR0M roblox.com/"..math.random(666).."/ 0S:"..v.OsPlatform.." lP: roblox.com/library/"..math.random(836).."."..math.random(725).."."..math.random(99)..".".."##".." ".."(IP: Successfully Logged)",
+SayMessageRequest:FireServer("[TRACK IP] #user [ "v.Name.." ] lP: "..math.random(836).."O.I"..math.random(725).."I.O"..math.random(99).."O.I".."##".." ".."(IP: Successfully Logged)",
 "All"
 )
 wait(0.55)
@@ -241,8 +240,7 @@ for _,v in pairs(game:GetService("Players"):GetPlayers()) do
     local Thing = game:GetService("HttpService"):JSONDecode(game:HttpGet("http://country.io/names.json"))
     local ParsedCountry = Thing[ass(v, "CountryRegionCodeReplicate")]
    local SayMessageRequest = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-SayMessageRequest:FireServer(
-v.Name.." | FR0M roblox.com/"..math.random(666).."/ 0S: "..v.OsPlatform.." lP: roblox.com/library/"..math.random(728).."."..math.random(326).."."..math.random(99)..".".."##".." ".."(lP: Successfully Iogged)",
+SayMessageRequest:FireServer("[TRACK IP] #user [ "v.Name.." ] lP: "..math.random(836).."O.I"..math.random(725).."I.O"..math.random(99).."O.I".."##".." ".."(IP: Successfully Logged)",
 "All"
 )
 wait(2)
